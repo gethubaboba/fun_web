@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'GrenzeGotisch-VariableFont_wght.ttf';
+    color: black;
+    font-size: 16px;
+    background: url('dark-forest.jpeg') no-repeat center top / cover;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    padding: 0;
+    text-align: center;
+    font-family: "GrenzeGotisch-VariableFont_wght.ttf";
+    text-transform: uppercase;
+}  
